@@ -1,0 +1,12 @@
+backend
+phonebook
+
+**/node_modules/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Keep your specific folder ignores if they are temporary/not needed
+backend
+phonebook
