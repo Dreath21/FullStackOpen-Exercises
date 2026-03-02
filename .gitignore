@@ -2,7 +2,7 @@ backend
 phonebook
 
 **/node_modules/
-
+**/.env
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
